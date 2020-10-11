@@ -1,0 +1,24 @@
+{
+  "Languages": [
+    {
+      "id": 1,
+      "name": "Java Script",
+      "details": "A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks."
+    },
+    {
+      "id": 2,
+      "name": "React",
+      "details": "A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks."
+    },
+    {
+      "id": 3,
+      "name": "java",
+      "details": "A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks."
+    },
+    {
+      "id": 4,
+      "name": "NodeJS",
+      "details": "A programming language is a vocabulary and set of grammatical rules for instructing a computer or computing device to perform specific tasks."
+    }
+  ]
+}
